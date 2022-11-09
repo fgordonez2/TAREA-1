@@ -101,6 +101,18 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/200955959-cf7674d3-4ecf-4220-a7a0-c1675b8b457d.png)
 ![image](https://user-images.githubusercontent.com/104925648/200956112-9e1ef050-0b8f-4f52-ac1c-1250eb70b3e7.png)
 
+># 4. VÍDEO
+Resolución de varios ejercicios:
+
+># 5. CONCLUSIONES
+- GH
+- MO-ÑLAKSD
+- MIWMID
+
+># 6. BOBLIOGRAFÍA
+
+
+
 
 
 
