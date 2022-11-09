@@ -65,6 +65,42 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/200935072-934b64b2-198d-4ca0-a72f-8db09dd2ae49.png)
 ![image](https://user-images.githubusercontent.com/104925648/200935150-193f2ce1-c51c-44da-85f8-624643307a76.png)
 
+## Sección 2-2 Carga Eléctrica
+![image](https://user-images.githubusercontent.com/104925648/200953488-7484c796-86bc-4746-9fe2-bcf4e19c98e1.png)
+![image](https://user-images.githubusercontent.com/104925648/200953619-0b2842db-a11f-4f32-baf8-76b2d2989b73.png)
+
+## Sección 2-3 Voltaje, corriente y resistencia
+![image](https://user-images.githubusercontent.com/104925648/200954297-8a54e442-07ce-4bda-ac7b-a14b97a5fccd.png)
+![image](https://user-images.githubusercontent.com/104925648/200954363-89f08b01-d4f1-42a6-8bc2-c6ada258feb8.png)
+![image](https://user-images.githubusercontent.com/104925648/200954400-c283eae8-8899-4473-96c7-96f986fcb759.png)
+![image](https://user-images.githubusercontent.com/104925648/200954462-dd36be45-6f42-4262-99f9-6b88a864673b.png)
+![image](https://user-images.githubusercontent.com/104925648/200954517-7ebfa462-a73c-48ec-a6b5-fd9deaad6daa.png)
+![image](https://user-images.githubusercontent.com/104925648/200954580-9ddf6405-c681-4729-9a4a-3b6a47d61fd6.png)
+
+## Sección 2-4 Fuentes de volatje y de corriente
+![image](https://user-images.githubusercontent.com/104925648/200954785-65f6042c-7556-4998-9c8d-47758b6be226.png)
+![image](https://user-images.githubusercontent.com/104925648/200954817-9a41e74d-5910-4ca8-a764-219f7cfe26ac.png)
+
+## Sección 2-5 Resistores
+![image](https://user-images.githubusercontent.com/104925648/200954999-cf0b5120-f99f-4600-9b2e-d59c4905ef0f.png)
+![image](https://user-images.githubusercontent.com/104925648/200955044-d172ca5d-c8ac-4a9f-a2e6-b8aaf3ed362e.png)
+![image](https://user-images.githubusercontent.com/104925648/200955083-6ac4ed05-8029-4e87-aac0-d8509f76bcf0.png)
+![image](https://user-images.githubusercontent.com/104925648/200955124-dbaab36f-32f4-42e2-9048-a4ff748f477f.png)
+![image](https://user-images.githubusercontent.com/104925648/200955177-bb319a94-0290-42fc-8175-2332c28c17d4.png)
+
+## Sección 2-6 El circuito eléctrico
+![image](https://user-images.githubusercontent.com/104925648/200955341-147291d5-1a04-4972-a966-2a4698666944.png)
+![image](https://user-images.githubusercontent.com/104925648/200955370-35d0df98-97ce-4bde-a16d-bcd5d14c2527.png)
+![image](https://user-images.githubusercontent.com/104925648/200955405-23b8c82b-5853-442d-9cd4-93f98d5c1b55.png)
+
+## Sección 2-7 Mediciones de circuito básico
+![image](https://user-images.githubusercontent.com/104925648/200955750-54202d70-23f2-41ab-95f2-c7742ce4c2b4.png)
+![image](https://user-images.githubusercontent.com/104925648/200955812-4407af0e-b10c-495a-9d7b-58f3f45946b9.png)
+![image](https://user-images.githubusercontent.com/104925648/200955847-5444b336-8cfb-44c8-9770-f76061263123.png)
+![image](https://user-images.githubusercontent.com/104925648/200955907-337d3906-e678-408a-8db3-1def36d08537.png)
+![image](https://user-images.githubusercontent.com/104925648/200955959-cf7674d3-4ecf-4220-a7a0-c1675b8b457d.png)
+![image](https://user-images.githubusercontent.com/104925648/200956112-9e1ef050-0b8f-4f52-ac1c-1250eb70b3e7.png)
+
 
 
 
