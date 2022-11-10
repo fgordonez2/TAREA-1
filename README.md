@@ -70,19 +70,19 @@ los temas propuestos:
 
 1. Exprese cada uno de los números siguientes en notación científica:
 - (a) 3000 (b) 75,000 (c) 2,000,000
-![image](https://user-images.githubusercontent.com/104925648/201181186-68754e99-1846-454e-939e-1af98c13df63.png)
+![image](https://user-images.githubusercontent.com/104925648/201225991-11b77b79-d864-4524-ad5a-f5afe68200c7.png)
 
 3. Exprese cada uno de los números siguientes en notación científica:
 - (a) 8400 (b) 99,000  (c) $0.2x10^6$
-![image](https://user-images.githubusercontent.com/104925648/201181509-5841782c-5eee-476e-9794-f2086d8d409f.png)
+![image](https://user-images.githubusercontent.com/104925648/201226039-9bdba9ec-e9c5-4437-a8bb-e0f427acb4bf.png)
 
 5. Exprese cada uno de los números siguientes en notación científica:
 - (a) $32x10^3$    (b) $60800x10^-6$    (c) $870x10^8$
-![image](https://user-images.githubusercontent.com/104925648/201181868-0d3711d7-2f30-4abb-ac14-ec6eda9960ec.png)
+![image](https://user-images.githubusercontent.com/104925648/201226130-ee05fa8f-ef6d-4d65-9aa1-d779e206d846.png)
 
 7. Exprese cada uno de los números siguientes como un número decimal regular:
 - (a) $2.5x10^-6$    (b) $5.0x10^2$       (c) $3.9x10^-1$
-![image](https://user-images.githubusercontent.com/104925648/201186483-0bfba47c-c048-42f6-a4e3-3c53e2c5ff56.png)
+![image](https://user-images.githubusercontent.com/104925648/201226212-8ae4635b-1e28-407e-bcef-c3940ae8c2a3.png)
 
 9. Sume los siguientes números:
 ![image](https://user-images.githubusercontent.com/104925648/201215866-02bd5822-51c0-4a5c-8d18-cd534daeb12b.png)
@@ -94,9 +94,9 @@ los temas propuestos:
 
 13. Exprese cada uno de los números siguientes en notación de ingeniería:
 - (a) 89,000    (b) 450,000    (c) 12,040,000,000,000
-![image](https://user-images.githubusercontent.com/104925648/201216290-338f36ce-87fc-4fa5-a87a-fd95aa0e1765.png)
+![image](https://user-images.githubusercontent.com/104925648/201226358-6a89caca-7690-4843-a6b6-baf7f2d53a1d.png)
 
-15. 15. Exprese cada número en notación de ingeniería:
+15. Exprese cada número en notación de ingeniería:
 - (a) 0.000345   (b) 0.025    (c) 0.00000000129
 ![image](https://user-images.githubusercontent.com/104925648/201216405-f39d9fde-440a-4fd8-a7e7-6c199e912d9b.png)
 
@@ -104,7 +104,7 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/201216532-59dc1176-60be-42df-8a15-9e8771400c6b.png)
 
 19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
-![image](https://user-images.githubusercontent.com/104925648/201216658-4bd6973a-8004-4215-8db6-f54d20e38bac.png)
+![image](https://user-images.githubusercontent.com/104925648/201226442-7a12e5d5-f296-4ab8-9a47-2d7b4ab8e82c.png)
 
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico:
 ![image](https://user-images.githubusercontent.com/104925648/201216768-8acc1709-9e2b-4ec3-a3cf-fdcaf8de5522.png)
@@ -119,8 +119,8 @@ los temas propuestos:
 ## Sección 1-4 Conversiones de Unidades Métricas
 
 27. Realice las conversiones indicadas:
-- (a) 5 mA a microamperes    (b) 3200 mW a miliwatts     (c) 5000 kV a megavolts     (d) 10 MW a kilowatts 
-![image](https://user-images.githubusercontent.com/104925648/201217194-7f311c2a-9b9c-447b-b911-95dfcf9bafc7.png)
+- (a) 5 mA a microamperes    (b) 3200 uW a miliwatts     (c) 5000 kV a megavolts     (d) 10 MW a kilowatts 
+![image](https://user-images.githubusercontent.com/104925648/201226608-8843fe94-1523-4b6d-9349-b4cdded6507d.png)
 
 29. Sume las siguientes cantidades:
 ![image](https://user-images.githubusercontent.com/104925648/201217294-2be0ace0-3124-4808-bd5c-c9ae059858e0.png)
@@ -172,7 +172,7 @@ los temas propuestos:
 ## Sección 2-2 Carga Eléctrica
 
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
-![image](https://user-images.githubusercontent.com/104925648/201219676-7e79568a-5470-4ee5-97ec-292c561eedf6.png)
+![image](https://user-images.githubusercontent.com/104925648/201226669-2144d54e-6740-4917-8c46-717a77a126c6.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/201219814-4eadcb00-1da1-4e03-a178-9713176cc952.png)
 
@@ -194,7 +194,7 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/201220592-9840eba3-8433-4819-a281-3c6bb353c285.png)
 
 13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
-![image](https://user-images.githubusercontent.com/104925648/201220666-0815650e-9369-4111-9758-c8f733893e12.png)
+![image](https://user-images.githubusercontent.com/104925648/201226746-4c742add-ff06-4317-a27a-084b817c1766.png)
 
 15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
 ![image](https://user-images.githubusercontent.com/104925648/201220976-3c756161-f899-47bb-a5c5-2a7933dc2693.png)
