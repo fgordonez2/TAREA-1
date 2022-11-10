@@ -67,7 +67,7 @@ los temas propuestos:
 
 ## Sección 2-2 Carga Eléctrica
 ![image](https://user-images.githubusercontent.com/104925648/200953488-7484c796-86bc-4746-9fe2-bcf4e19c98e1.png)
-![image](https://user-images.githubusercontent.com/104925648/200953619-0b2842db-a11f-4f32-baf8-76b2d2989b73.png)
+![image](https://user-images.githubusercontent.com/104925648/200985142-f2d02df8-bf36-4095-a702-6ac65e7c4c97.png)
 
 ## Sección 2-3 Voltaje, corriente y resistencia
 ![image](https://user-images.githubusercontent.com/104925648/200954297-8a54e442-07ce-4bda-ac7b-a14b97a5fccd.png)
