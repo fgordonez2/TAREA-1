@@ -117,7 +117,7 @@ Resolución de varios ejercicios:
   En el caso de la notación científica el exponente puede tener cualquier valor.
   
 
-># 6. BOBLIOGRAFÍA
+># 6. BIBLIOGRAFÍA
 FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
 
 
