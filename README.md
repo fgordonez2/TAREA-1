@@ -17,7 +17,7 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/200746879-0e64eed8-9c17-48a9-912c-5e8282c6dbbd.png)
 ![image](https://user-images.githubusercontent.com/104925648/200746983-b2af88b5-734a-4df8-a6a5-716b5cfebf27.png)
 ![image](https://user-images.githubusercontent.com/104925648/200747047-98923b70-7845-4800-a079-a5ddc5cbe53a.png)
-![image](https://user-images.githubusercontent.com/104925648/200747095-0f531ce0-e2b8-449c-8124-2d952b3db4e9.png)
+![image](https://user-images.githubusercontent.com/104925648/200970407-0426295b-0de5-4c07-a371-a1bee0efb165.png)
 ![image](https://user-images.githubusercontent.com/104925648/200747269-2cf588c6-dc01-4b61-a505-01d5042c930e.png)
 ![image](https://user-images.githubusercontent.com/104925648/200747373-95a8435c-7e37-457c-a841-ad9f5e1587f0.png)
 ![image](https://user-images.githubusercontent.com/104925648/200747414-f3376b97-a3db-4ebc-8840-25c66dafda0f.png)
