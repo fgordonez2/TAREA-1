@@ -87,7 +87,7 @@ los temas propuestos:
 9. Sume los siguientes números:
 ![image](https://user-images.githubusercontent.com/104925648/201215866-02bd5822-51c0-4a5c-8d18-cd534daeb12b.png)
 
-11. Realice las siguientes multiplicaciones:
+
 ![image](https://user-images.githubusercontent.com/104925648/201215994-4b0db228-585c-4a4d-a73a-d3801c794940.png)
 
 ## Sección 1-3 Notación de Ingeniería y Prefijos métricos
@@ -256,15 +256,25 @@ través del resistor y la que sale de la batería.
 ![image](https://user-images.githubusercontent.com/104925648/201223183-9de14257-da26-4d97-a2d4-b24c369855ec.png)
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+![image](https://user-images.githubusercontent.com/104925648/201224790-48036641-5e92-448c-8753-2da84198159e.png)
 
+45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de
+ohmmetro:
+- (a) manecilla en 2, ajuste de intervalo en x 10
+- (b) manecilla en 15, ajuste de intervalo en x 100,000
+- (c) manecilla en 45, ajuste de intervalo en x 100
+![image](https://user-images.githubusercontent.com/104925648/201224962-731d580b-cc01-42e3-bb08-327b4088825e.png)
 
+![image](https://user-images.githubusercontent.com/104925648/201225017-9f4f055c-b749-4f0f-a7c2-617e36e5b9d4.png)
 
 ># 4. VÍDEO
+
 Dicho vídeo se lo realizó con el fin de dar prioridad al volatje, corriente y resistencia; como conocimiento general para los circuitos eléctricos
 en este se usa conversiones de unidades y también definiciones básicas.
 https://www.youtube.com/watch?v=AUI8ETlBLOo
 
 ># 5. CONCLUSIONES
+
 - Los prefijos métricos en la notación de ingeniería y notación cinetífica son muy importantes a la hora de realizar ejercicios, 
   tomando en cuenta que se necesitan pasar de cantidades muy pequeñas a muy grandes o viceversa.
 - Al realizar este informe se concluyó que el volatje es la fuerza que provoca que se muevan los electrones, la corrientes es la
@@ -278,6 +288,7 @@ https://www.youtube.com/watch?v=AUI8ETlBLOo
   
 
 ># 6. BIBLIOGRAFÍA
+
 FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
 
 
