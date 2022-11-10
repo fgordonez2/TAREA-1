@@ -119,7 +119,7 @@ https://www.youtube.com/watch?v=AUI8ETlBLOo
   
 
 ># 6. BIBLIOGRAFÍA
-FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
+FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007.
 
 
 
