@@ -22,11 +22,40 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/200747373-95a8435c-7e37-457c-a841-ad9f5e1587f0.png)
 ![image](https://user-images.githubusercontent.com/104925648/200747414-f3376b97-a3db-4ebc-8840-25c66dafda0f.png)
 ![image](https://user-images.githubusercontent.com/104925648/200747458-ae61f782-d7eb-4585-9560-cbbf37c46e17.png)
+![image](https://user-images.githubusercontent.com/104925648/201176988-761ada95-1710-4879-a5d8-c949ce79ae10.png)
 ![image](https://user-images.githubusercontent.com/104925648/200747553-6a0d151a-b480-4eb8-9d9b-635c8e1be5df.png)
 ![image](https://user-images.githubusercontent.com/104925648/200747627-a4a3cd47-0a08-4eb9-9012-0eff35a39c4f.png)
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 # Resolución de ejercicios impares *CAPITULO 1*:
+
 ## Autoevaluación:
+1. ¿Cuál de los siguientes términos no representa una cantidad eléctrica?
+- a) corriente
+- b) voltaje
+- **c) tiempo** ←
+- d) potencia
+
+3. La unidad de voltaje es:
+- a) ohm 
+- b) watt 
+- **c) volt** ←
+- d) farad
+
+5. Hertz es la unidad de:
+- a) potencia 
+- b) inductancia 
+- **c) frecuencia** ←
+- d) tiempo
+
+7. La cantidad $$4.7x10^3$$ es lo mismo que:
+- a) 470 
+- **b) 4700** ←
+- c) 47,000 
+- d) 0.0047
+
+9. El número 3,300,000 puede ser expresado en notación de ingeniería como:
+- a) $$3300x10^3$$
+- b) $$3.3x10^-6$$
 
 
 ## Seccion 1-2 NOTACIÓN CIENTÍFICA
@@ -67,7 +96,8 @@ los temas propuestos:
 
 
 ># 4. VÍDEO
-Resolución de ejercicios básicos:
+Dicho vídeo se lo realizó con el fin de dar prioridad al volatje, corriente y resistencia; como conocimiento general para los circuitos eléctricos
+en este se usa conversiones de unidades y también definiciones básicas.
 https://www.youtube.com/watch?v=AUI8ETlBLOo
 
 ># 5. CONCLUSIONES
