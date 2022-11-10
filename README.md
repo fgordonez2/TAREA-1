@@ -78,6 +78,18 @@ los temas propuestos:
 - (a) $32x10^3$    (b) $60800x10^-6$    (c) $870x10^8$
 ![image](https://user-images.githubusercontent.com/104925648/201181868-0d3711d7-2f30-4abb-ac14-ec6eda9960ec.png)
 
+7. Exprese cada uno de los números siguientes como un número decimal regular:
+- (a) $2.5x10^-6$    (b) $5.0x10^2$       (c) $3.9x10^-1$
+![image](https://user-images.githubusercontent.com/104925648/201186483-0bfba47c-c048-42f6-a4e3-3c53e2c5ff56.png)
+
+9. Sume los números siguientes:
+- (a) $9.2x10^6$ + $3.4x10^7$      (b) $5.0x10^2$ + $8.5x10^-1$       (c) $5.6x10^-8$ + $4.6x10^-9$ 
+![image](https://user-images.githubusercontent.com/104925648/201187537-9078eae7-3f16-46c4-bdaf-1d09c41c3a0d.png)
+
+11. Realice las siguientes multiplicaciones:
+- (a) $5x10^3$ * $4x10^5$  (b) $1.2x10^12$ * $3x10^2$  (c) $2.2x10^-9$ * $7x10^-6$  
+![image](https://user-images.githubusercontent.com/104925648/201188604-44eee370-5ac8-47a5-8693-ca718b1bddec.png)
+
 
 
 
