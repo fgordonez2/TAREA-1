@@ -112,7 +112,7 @@ Resolución de ejercicios básicos:
 - Con el análisis de lectura hecho en el capitulo 1-2, en cuanto al armar un circuito eléctrico de forma física se deben considerar varios
   parámetros, como la correcta medición de los componentes de dicho circuito al igual que tomar precauciones y enfrentar de forma correcta algún
   riesgo eleçtrico
-- Un vez analizado la notación de ingeniería puedo concluir que permiten representar cantidades muy grandes o muy pequeñas, muy comunes en áreas 
+- Una vez analizado la notación de ingeniería puedo concluir que permiten representar cantidades muy grandes o muy pequeñas, muy comunes en áreas 
   de la tecnología como la electricidad y electrónica. La diferencia entre los dos tipos de notaciones está en la representación del exponente. 
   En el caso de la notación científica el exponente puede tener cualquier valor.
   
