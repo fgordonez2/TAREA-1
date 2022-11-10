@@ -78,7 +78,7 @@ los temas propuestos:
 
 5. Exprese cada uno de los números siguientes en notación científica:
 - (a) $32x10^3$    (b) $60800x10^-6$    (c) $870x10^8$
-![image](https://user-images.githubusercontent.com/104925648/201226130-ee05fa8f-ef6d-4d65-9aa1-d779e206d846.png)
+![image](https://user-images.githubusercontent.com/104925648/201227172-4922be38-a7f3-45a4-a527-c7e1de4f6992.png)
 
 7. Exprese cada uno de los números siguientes como un número decimal regular:
 - (a) $2.5x10^-6$    (b) $5.0x10^2$       (c) $3.9x10^-1$
