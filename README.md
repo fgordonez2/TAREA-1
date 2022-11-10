@@ -197,16 +197,18 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/201220666-0815650e-9369-4111-9758-c8f733893e12.png)
 
 15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
-- (a)5 Æ     (b)25 Æ     (c)100 Æ
-![image](https://user-images.githubusercontent.com/104925648/201220851-ccc6ef92-01ab-4fb5-a3a6-c71902019ceb.png)
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/104925648/201220976-3c756161-f899-47bb-a5c5-2a7933dc2693.png)
 
 ## Sección 2-4 Fuentes de volatje y de corriente
+
+17. Enliste cuatro fuentes de voltaje comunes.
+- 1) Fuente de potencia Cd
+- 2) Celda solar
+- 3) Generador
+- 4) Pilas (baterías)
+
+19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+La fuente de potencia convierte el volatje de corriente alterna en corriente directa
 
 
 
