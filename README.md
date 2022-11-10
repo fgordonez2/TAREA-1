@@ -29,6 +29,7 @@ los temas propuestos:
 # Resolución de ejercicios impares *CAPITULO 1*:
 
 ## Autoevaluación:
+
 1. ¿Cuál de los siguientes términos no representa una cantidad eléctrica?
 - a) corriente
 - b) voltaje
@@ -66,6 +67,7 @@ los temas propuestos:
 - **d) cualquier respuesta (a) o (c)** ←
 
 ## Seccion 1-2 NOTACIÓN CIENTÍFICA
+
 1. Exprese cada uno de los números siguientes en notación científica:
 - (a) 3000 (b) 75,000 (c) 2,000,000
 ![image](https://user-images.githubusercontent.com/104925648/201181186-68754e99-1846-454e-939e-1af98c13df63.png)
@@ -82,32 +84,113 @@ los temas propuestos:
 - (a) $2.5x10^-6$    (b) $5.0x10^2$       (c) $3.9x10^-1$
 ![image](https://user-images.githubusercontent.com/104925648/201186483-0bfba47c-c048-42f6-a4e3-3c53e2c5ff56.png)
 
-9. Sume los números siguientes:
-- (a) $9.2x10^6$ + $3.4x10^7$      (b) $5.0x10^2$ + $8.5x10^-1$       (c) $5.6x10^-8$ + $4.6x10^-9$ 
-![image](https://user-images.githubusercontent.com/104925648/201187537-9078eae7-3f16-46c4-bdaf-1d09c41c3a0d.png)
+9. Sume los siguientes números:
+![image](https://user-images.githubusercontent.com/104925648/201215866-02bd5822-51c0-4a5c-8d18-cd534daeb12b.png)
 
 11. Realice las siguientes multiplicaciones:
-
-
-
+![image](https://user-images.githubusercontent.com/104925648/201215994-4b0db228-585c-4a4d-a73a-d3801c794940.png)
 
 ## Sección 1-3 Notación de Ingeniería y Prefijos métricos
 
+13. Exprese cada uno de los números siguientes en notación de ingeniería:
+- (a) 89,000    (b) 450,000    (c) 12,040,000,000,000
+![image](https://user-images.githubusercontent.com/104925648/201216290-338f36ce-87fc-4fa5-a87a-fd95aa0e1765.png)
+
+15. 15. Exprese cada número en notación de ingeniería:
+- (a) 0.000345   (b) 0.025    (c) 0.00000000129
+![image](https://user-images.githubusercontent.com/104925648/201216405-f39d9fde-440a-4fd8-a7e7-6c199e912d9b.png)
+
+17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
+![image](https://user-images.githubusercontent.com/104925648/201216532-59dc1176-60be-42df-8a15-9e8771400c6b.png)
+
+19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
+![image](https://user-images.githubusercontent.com/104925648/201216658-4bd6973a-8004-4215-8db6-f54d20e38bac.png)
+
+21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico:
+![image](https://user-images.githubusercontent.com/104925648/201216768-8acc1709-9e2b-4ec3-a3cf-fdcaf8de5522.png)
+
+23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+![image](https://user-images.githubusercontent.com/104925648/201216839-0dfd842a-8d03-4ced-86b5-02f493769385.png)
+
+25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
+- (a) 7.5 pA     (b) 3.3 GHz    (c) 280 nW
+![image](https://user-images.githubusercontent.com/104925648/201216975-b363fced-33c8-4e3f-b7df-25193b1bd4d4.png)
 
 ## Sección 1-4 Conversiones de Unidades Métricas
 
+27. Realice las conversiones indicadas:
+- (a) 5 mA a microamperes    (b) 3200 mW a miliwatts     (c) 5000 kV a megavolts     (d) 10 MW a kilowatts 
+![image](https://user-images.githubusercontent.com/104925648/201217194-7f311c2a-9b9c-447b-b911-95dfcf9bafc7.png)
 
-
+29. Sume las siguientes cantidades:
+![image](https://user-images.githubusercontent.com/104925648/201217294-2be0ace0-3124-4808-bd5c-c9ae059858e0.png)
 
 # Resolución de ejercicios impares *CAPITULO 2*:
+
 ## Autoevaluación:
 
+1. Un átomo neutro con número atómico de tres, ¿cuántos electrones tiene?
+- (a) 1
+- **(b) 3** ←
+- (c) ninguno
+- (d) depende del tipo de átomo
+
+3. Los materiales donde no hay corriente cuando se aplica voltaje se llaman:
+- (a) filtros
+- (b) conductores
+- **(c) aislantes** ←
+- (d) semiconductores 
+
+5. La carga en un solo electrón es de:
+![image](https://user-images.githubusercontent.com/104925648/201218877-33e80190-b457-432d-9df6-8de69f1aa3f7.png)
+
+7. La unidad de energía es el:
+- (a) watt
+- (b) coulomb
+- **(c) joule** ←
+- (d) volt
+
+9. ¿Cuál de las siguientes circunstancias no es condición de un circuito eléctrico?
+- (a) voltaje y sin corriente
+- **(b) corriente y sin voltaje**
+- (c) voltaje y corriente
+- (d) sin voltaje y sin corriente 
+
+11. No hay corriente en un circuito cuando:
+- (a) un interruptor está cerrado
+- (b) un interruptor está abierto
+- (c) no hay voltaje
+- (d) respuestas (a) y (c)
+- **(e) respuestas (b) y (c)** ←
+
+13. Potenciómetros y reóstatos son tipos de
+- (a) fuentes de voltaje
+- **(b) resistores variables** ←
+- (c) resistores fijos
+- (d) cortacircuitos
 
 ## Sección 2-2 Carga Eléctrica
 
+1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+![image](https://user-images.githubusercontent.com/104925648/201219676-7e79568a-5470-4ee5-97ec-292c561eedf6.png)
 
+3. 
+![image](https://user-images.githubusercontent.com/104925648/201219814-4eadcb00-1da1-4e03-a178-9713176cc952.png)
 
 ## Sección 2-3 Voltaje, corriente y resistencia
+
+5. Determine el voltaje en cada uno de los siguientes casos:
+- (a) 10 J/C     (b) 5 J/2 C     (c) 100 J/25 C
+![image](https://user-images.githubusercontent.com/104925648/201219949-6fce8c9b-1dd6-40be-9301-ba30a411e813.png)
+
+
+7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+![image](https://user-images.githubusercontent.com/104925648/201220041-11fc8ea4-9b1c-4d0f-9fd5-75328e9e314a.png)
+
+9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
+   calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+
+
 
 
 
