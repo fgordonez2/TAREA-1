@@ -85,8 +85,7 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/201226212-8ae4635b-1e28-407e-bcef-c3940ae8c2a3.png)
 
 9. Sume los siguientes números:
-![image](https://user-images.githubusercontent.com/104925648/201215866-02bd5822-51c0-4a5c-8d18-cd534daeb12b.png)
-
+![image](https://user-images.githubusercontent.com/104925648/201227349-34f38d23-f0a5-4095-9ee5-612149da3dba.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/201215994-4b0db228-585c-4a4d-a73a-d3801c794940.png)
 
