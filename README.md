@@ -174,7 +174,7 @@ los temas propuestos:
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 ![image](https://user-images.githubusercontent.com/104925648/201219676-7e79568a-5470-4ee5-97ec-292c561eedf6.png)
 
-3. 
+3. . .......
 ![image](https://user-images.githubusercontent.com/104925648/201219814-4eadcb00-1da1-4e03-a178-9713176cc952.png)
 
 ## Sección 2-3 Voltaje, corriente y resistencia
