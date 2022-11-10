@@ -65,8 +65,20 @@ los temas propuestos:
 - c) 5 kV 
 - **d) cualquier respuesta (a) o (c)** ←
 
-
 ## Seccion 1-2 NOTACIÓN CIENTÍFICA
+1. Exprese cada uno de los números siguientes en notación científica:
+- (a) 3000 (b) 75,000 (c) 2,000,000
+![image](https://user-images.githubusercontent.com/104925648/201181186-68754e99-1846-454e-939e-1af98c13df63.png)
+
+3. Exprese cada uno de los números siguientes en notación científica:
+- (a) 8400 (b) 99,000  (c) $0.2x10^6$
+![image](https://user-images.githubusercontent.com/104925648/201181509-5841782c-5eee-476e-9794-f2086d8d409f.png)
+
+5. Exprese cada uno de los números siguientes en notación científica:
+- (a) $32x10^3$    (b) $60800x10^-6$    (c) $870x10^8$
+![image](https://user-images.githubusercontent.com/104925648/201181868-0d3711d7-2f30-4abb-ac14-ec6eda9960ec.png)
+
+
 
 
 ## Sección 1-3 Notación de Ingeniería y Prefijos métricos
