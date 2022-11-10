@@ -1,4 +1,4 @@
-# TAREA-1
+# INFORME TAREA-1
 ># 1. OBJETIVOS
 # Generales:
 - Comprender el uso de la notación científica y de ingeniería, mediante la resolución de problemas en el SI, para
