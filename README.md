@@ -74,7 +74,7 @@ los temas propuestos:
 
 3. Exprese cada uno de los números siguientes en notación científica:
 - (a) 8400 (b) 99,000  (c) $0.2x10^6$
-![image](https://user-images.githubusercontent.com/104925648/201226039-9bdba9ec-e9c5-4437-a8bb-e0f427acb4bf.png)
+![image](https://user-images.githubusercontent.com/104925648/201227072-132352dc-3a8c-47e6-9a07-2e51a886016d.png)
 
 5. Exprese cada uno de los números siguientes en notación científica:
 - (a) $32x10^3$    (b) $60800x10^-6$    (c) $870x10^8$
