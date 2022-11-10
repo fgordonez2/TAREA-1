@@ -105,9 +105,14 @@ los temas propuestos:
 Resolución de varios ejercicios:
 
 ># 5. CONCLUSIONES
-- GH
-- MO-ÑLAKSD
-- MIWMID
+- Los prefijos métricos en la notación de ingeniería y notación cinetífica son muy importantes a la hora de realizar ejercicios, 
+  tomando en cuenta que se necesitan pasar de cantidades muy pequeñas a muy grandes o viceversa.
+- Al realizar este informe se concluyó que el volatje es la fuerza que provoca que se muevan los electrones, la corrientes es la
+  velocidad con la que se mueven los electrones y la resistencia es la oposición a la corriente.
+- Con el análisis de lectura hecho en el capitulo 1-2, en cuanto al armar un circuito eléctrico de forma física se deben considerar varios
+  parámetros, como la correcta medición de los componentes de dicho circuito al igual que tomar precauciones y enfrentar de forma correcta algún
+  riesgo eleçtrico
+  
 
 ># 6. BOBLIOGRAFÍA
 uuauauaua
