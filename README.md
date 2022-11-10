@@ -102,18 +102,14 @@ los temas propuestos:
 17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
 ![image](https://user-images.githubusercontent.com/104925648/201216532-59dc1176-60be-42df-8a15-9e8771400c6b.png)
 
-19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
-![image](https://user-images.githubusercontent.com/104925648/201226442-7a12e5d5-f296-4ab8-9a47-2d7b4ab8e82c.png)
+![image](https://user-images.githubusercontent.com/104925648/201227839-f278743d-015a-43a4-b166-fef57b08b00c.png)
 
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico:
 ![image](https://user-images.githubusercontent.com/104925648/201216768-8acc1709-9e2b-4ec3-a3cf-fdcaf8de5522.png)
 
-23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
-![image](https://user-images.githubusercontent.com/104925648/201216839-0dfd842a-8d03-4ced-86b5-02f493769385.png)
+![image](https://user-images.githubusercontent.com/104925648/201227968-8e43ff81-03b7-4c8d-b92f-bdae39d2edd7.png)
 
-25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
-- (a) 7.5 pA     (b) 3.3 GHz    (c) 280 nW
-![image](https://user-images.githubusercontent.com/104925648/201216975-b363fced-33c8-4e3f-b7df-25193b1bd4d4.png)
+![image](https://user-images.githubusercontent.com/104925648/201228008-f9971e19-7265-4081-911b-9a50fa37dbe6.png)
 
 ## Sección 1-4 Conversiones de Unidades Métricas
 
