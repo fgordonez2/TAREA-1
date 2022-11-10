@@ -47,15 +47,23 @@ los temas propuestos:
 - **c) frecuencia** ←
 - d) tiempo
 
-7. La cantidad $$4.7x10^3$$ es lo mismo que:
+7. La cantidad $4.7x10^3$ es lo mismo que:
 - a) 470 
 - **b) 4700** ←
 - c) 47,000 
 - d) 0.0047
 
 9. El número 3,300,000 puede ser expresado en notación de ingeniería como:
-- a) $$3300x10^3$$
-- b) $$3.3x10^-6$$
+- a) $3300x10^3$
+- b) $3.3x10^-6$
+- c) $3.3x10^6$
+- **d) cualquier respuesta (a) o (c)** ←
+
+11. Cinco mil volts pueden ser expresados como
+- a) 5000 V 
+- b) 5 MV 
+- c) 5 kV 
+- **d) cualquier respuesta (a) o (c)** ←
 
 
 ## Seccion 1-2 NOTACIÓN CIENTÍFICA
