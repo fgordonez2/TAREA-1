@@ -174,7 +174,6 @@ los temas propuestos:
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 ![image](https://user-images.githubusercontent.com/104925648/201219676-7e79568a-5470-4ee5-97ec-292c561eedf6.png)
 
-3. . .......
 ![image](https://user-images.githubusercontent.com/104925648/201219814-4eadcb00-1da1-4e03-a178-9713176cc952.png)
 
 ## Sección 2-3 Voltaje, corriente y resistencia
@@ -189,6 +188,19 @@ los temas propuestos:
 
 9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
    calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+![image](https://user-images.githubusercontent.com/104925648/201220512-297acb81-5702-49ec-908a-f8f85e611ecc.png)
+
+11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+![image](https://user-images.githubusercontent.com/104925648/201220592-9840eba3-8433-4819-a281-3c6bb353c285.png)
+
+13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+![image](https://user-images.githubusercontent.com/104925648/201220666-0815650e-9369-4111-9758-c8f733893e12.png)
+
+15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
+- (a)5 Æ     (b)25 Æ     (c)100 Æ
+![image](https://user-images.githubusercontent.com/104925648/201220851-ccc6ef92-01ab-4fb5-a3a6-c71902019ceb.png)
+
+
 
 
 
