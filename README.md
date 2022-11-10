@@ -208,18 +208,55 @@ los temas propuestos:
 - 4) Pilas (baterías)
 
 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
-La fuente de potencia convierte el volatje de corriente alterna en corriente directa
-
-
-
+- La fuente de potencia convierte el volatje de corriente alterna en corriente directa
+- 
 ## Sección 2-5 Resistores
 
+21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+- (a) rojo, violeta, naranja, oro
+- (b) café, gris, rojo, plata
+![image](https://user-images.githubusercontent.com/104925648/201221560-5610d6a4-5a6a-44f7-9329-8ef1bbca7fdd.png)
 
+![image](https://user-images.githubusercontent.com/104925648/201222195-f5bcad51-8819-4c64-992a-aef87ef613f5.png)
+
+25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que
+cada resistor tiene una tolerancia del 5 por ciento.
+![image](https://user-images.githubusercontent.com/104925648/201222333-6aef010a-f3e0-426e-92a8-e320c4133150.png)
+
+27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que
+cada resistor tiene tolerancia del 1 por ciento.
+![image](https://user-images.githubusercontent.com/104925648/201222402-5efa2590-bf02-427e-8989-7215120d3e50.png)
+
+29. ¿Cuál es la resistencia indicada por 4K7?
+![image](https://user-images.githubusercontent.com/104925648/201222473-f7b933c5-2779-4029-9f94-fe7274ca650b.png)
 
 ## Sección 2-6 El circuito eléctrico
 
+31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
+![image](https://user-images.githubusercontent.com/104925648/201222599-bcf5a0be-1470-4d26-aabf-bd2b3266fcdf.png)
+
+33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo.
+    Determine cuál es este circuito.
+![image](https://user-images.githubusercontent.com/104925648/201222809-202c4210-b8b7-4055-8f5a-4d84ad05aa85.png)
+
+![image](https://user-images.githubusercontent.com/104925648/201222865-e5a39c2d-3339-4f4f-b88e-e6dcaae546dd.png)
 
 ## Sección 2-7 Mediciones de circuito básico
+
+37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de
+fuente en la figura 2-72.
+![image](https://user-images.githubusercontent.com/104925648/201222984-f61238f6-91e5-4dbf-81af-a4da2f33e994.png)
+
+39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
+¿En la posición 2?
+![image](https://user-images.githubusercontent.com/104925648/201223074-1338e9da-44c1-4dc7-be2c-a2ef930f7f76.png)
+
+41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a
+través del resistor y la que sale de la batería.
+![image](https://user-images.githubusercontent.com/104925648/201223183-9de14257-da26-4d97-a2d4-b24c369855ec.png)
+
+43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+
 
 
 ># 4. VÍDEO
