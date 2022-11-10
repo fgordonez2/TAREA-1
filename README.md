@@ -87,8 +87,6 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/201187537-9078eae7-3f16-46c4-bdaf-1d09c41c3a0d.png)
 
 11. Realice las siguientes multiplicaciones:
-- (a) $5x10^3$ * $4x10^5$  (b) $1.2x10^12$ * $3x10^2$  (c) $2.2x10^-9$ * $7x10^-6$  
-![image](https://user-images.githubusercontent.com/104925648/201188604-44eee370-5ac8-47a5-8693-ca718b1bddec.png)
 
 
 
