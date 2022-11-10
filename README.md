@@ -103,6 +103,7 @@ los temas propuestos:
 
 ># 4. VÍDEO
 Resolución de ejercicios básicos:
+https://www.youtube.com/watch?v=AUI8ETlBLOo
 
 ># 5. CONCLUSIONES
 - Los prefijos métricos en la notación de ingeniería y notación cinetífica son muy importantes a la hora de realizar ejercicios, 
