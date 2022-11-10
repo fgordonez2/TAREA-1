@@ -93,7 +93,7 @@ los temas propuestos:
 
 13. Exprese cada uno de los números siguientes en notación de ingeniería:
 - (a) 89,000    (b) 450,000    (c) 12,040,000,000,000
-![image](https://user-images.githubusercontent.com/104925648/201226358-6a89caca-7690-4843-a6b6-baf7f2d53a1d.png)
+![image](https://user-images.githubusercontent.com/104925648/201227537-74c05003-210e-4c1a-b867-6ab2f7563188.png)
 
 15. Exprese cada número en notación de ingeniería:
 - (a) 0.000345   (b) 0.025    (c) 0.00000000129
