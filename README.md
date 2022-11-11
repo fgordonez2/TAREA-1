@@ -66,7 +66,7 @@ los temas propuestos:
 - c) 5 kV 
 - **d) cualquier respuesta (a) o (c)** ←
 
-## Seccion 1-2 NOTACIÓN CIENTÍFICA
+## Sección 1-2 NOTACIÓN CIENTÍFICA
 
 1. Exprese cada uno de los números siguientes en notación científica:
 - (a) 3000 (b) 75,000 (c) 2,000,000
@@ -84,7 +84,6 @@ los temas propuestos:
 - (a) $2.5x10^-6$    (b) $5.0x10^2$       (c) $3.9x10^-1$
 ![image](https://user-images.githubusercontent.com/104925648/201226212-8ae4635b-1e28-407e-bcef-c3940ae8c2a3.png)
 
-9. Sume los siguientes números:
 ![image](https://user-images.githubusercontent.com/104925648/201227349-34f38d23-f0a5-4095-9ee5-612149da3dba.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/201215994-4b0db228-585c-4a4d-a73a-d3801c794940.png)
@@ -102,7 +101,7 @@ los temas propuestos:
 17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
 ![image](https://user-images.githubusercontent.com/104925648/201216532-59dc1176-60be-42df-8a15-9e8771400c6b.png)
 
-![image](https://user-images.githubusercontent.com/104925648/201227839-f278743d-015a-43a4-b166-fef57b08b00c.png)
+![image](https://user-images.githubusercontent.com/104925648/201234639-52e031bb-7672-4209-bc7d-6b25219dae6f.png)
 
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico:
 ![image](https://user-images.githubusercontent.com/104925648/201216768-8acc1709-9e2b-4ec3-a3cf-fdcaf8de5522.png)
@@ -115,7 +114,7 @@ los temas propuestos:
 
 27. Realice las conversiones indicadas:
 - (a) 5 mA a microamperes    (b) 3200 uW a miliwatts     (c) 5000 kV a megavolts     (d) 10 MW a kilowatts 
-![image](https://user-images.githubusercontent.com/104925648/201226608-8843fe94-1523-4b6d-9349-b4cdded6507d.png)
+![image](https://user-images.githubusercontent.com/104925648/201234788-57d7c9e8-6032-4fb1-a6d1-d019eaf164ca.png)
 
 29. Sume las siguientes cantidades:
 ![image](https://user-images.githubusercontent.com/104925648/201217294-2be0ace0-3124-4808-bd5c-c9ae059858e0.png)
@@ -177,22 +176,16 @@ los temas propuestos:
 - (a) 10 J/C     (b) 5 J/2 C     (c) 100 J/25 C
 ![image](https://user-images.githubusercontent.com/104925648/201219949-6fce8c9b-1dd6-40be-9301-ba30a411e813.png)
 
-
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
 ![image](https://user-images.githubusercontent.com/104925648/201220041-11fc8ea4-9b1c-4d0f-9fd5-75328e9e314a.png)
 
-9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
-   calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
-![image](https://user-images.githubusercontent.com/104925648/201220512-297acb81-5702-49ec-908a-f8f85e611ecc.png)
+![image](https://user-images.githubusercontent.com/104925648/201235240-99219f84-8f2b-4302-9848-14147333252d.png)
 
-11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
-![image](https://user-images.githubusercontent.com/104925648/201220592-9840eba3-8433-4819-a281-3c6bb353c285.png)
+![image](https://user-images.githubusercontent.com/104925648/201235274-5b11e9fc-0973-4263-b15b-01d8279e8a76.png)
 
-13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
-![image](https://user-images.githubusercontent.com/104925648/201226746-4c742add-ff06-4317-a27a-084b817c1766.png)
+![image](https://user-images.githubusercontent.com/104925648/201235319-6a850689-38ff-4c35-838f-35d96b945698.png)
 
-15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
-![image](https://user-images.githubusercontent.com/104925648/201220976-3c756161-f899-47bb-a5c5-2a7933dc2693.png)
+![image](https://user-images.githubusercontent.com/104925648/201235369-80a6b826-d9d4-4fcd-bc39-5517e69f07f5.png)
 
 ## Sección 2-4 Fuentes de volatje y de corriente
 
@@ -204,7 +197,7 @@ los temas propuestos:
 
 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 - La fuente de potencia convierte el volatje de corriente alterna en corriente directa
-- 
+
 ## Sección 2-5 Resistores
 
 21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
@@ -212,7 +205,7 @@ los temas propuestos:
 - (b) café, gris, rojo, plata
 ![image](https://user-images.githubusercontent.com/104925648/201221560-5610d6a4-5a6a-44f7-9329-8ef1bbca7fdd.png)
 
-![image](https://user-images.githubusercontent.com/104925648/201222195-f5bcad51-8819-4c64-992a-aef87ef613f5.png)
+![image](https://user-images.githubusercontent.com/104925648/201235690-a79e0c49-e031-40f2-9da9-67da050b1b0a.png)
 
 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que
 cada resistor tiene una tolerancia del 5 por ciento.
@@ -242,23 +235,14 @@ cada resistor tiene tolerancia del 1 por ciento.
 fuente en la figura 2-72.
 ![image](https://user-images.githubusercontent.com/104925648/201222984-f61238f6-91e5-4dbf-81af-a4da2f33e994.png)
 
-39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
-¿En la posición 2?
-![image](https://user-images.githubusercontent.com/104925648/201223074-1338e9da-44c1-4dc7-be2c-a2ef930f7f76.png)
+![image](https://user-images.githubusercontent.com/104925648/201235954-62363df4-006f-44f8-a06c-cc8cefa3342a.png)
 
-41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a
-través del resistor y la que sale de la batería.
-![image](https://user-images.githubusercontent.com/104925648/201223183-9de14257-da26-4d97-a2d4-b24c369855ec.png)
+![image](https://user-images.githubusercontent.com/104925648/201235995-9075508e-ae68-4f2e-aeb9-66b74df7a417.png)
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 ![image](https://user-images.githubusercontent.com/104925648/201224790-48036641-5e92-448c-8753-2da84198159e.png)
 
-45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de
-ohmmetro:
-- (a) manecilla en 2, ajuste de intervalo en x 10
-- (b) manecilla en 15, ajuste de intervalo en x 100,000
-- (c) manecilla en 45, ajuste de intervalo en x 100
-![image](https://user-images.githubusercontent.com/104925648/201224962-731d580b-cc01-42e3-bb08-327b4088825e.png)
+![image](https://user-images.githubusercontent.com/104925648/201236093-45ec9177-7116-4d87-bce5-6175b1aa9f41.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/201225017-9f4f055c-b749-4f0f-a7c2-617e36e5b9d4.png)
 
