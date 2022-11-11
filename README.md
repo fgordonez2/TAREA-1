@@ -11,7 +11,7 @@
 - Aplicar la notación cinetífica para representar cantidades.
 - Diferenciar entre la notación científica y la notación de ingeniería.
 - Solucionar problemas de riesgos eléctricos de forma inmediata.
-># 2. MARCO TEÓRICO
+># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
 los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/200746879-0e64eed8-9c17-48a9-912c-5e8282c6dbbd.png)
