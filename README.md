@@ -270,6 +270,9 @@ https://www.youtube.com/watch?v=AUI8ETlBLOo
 
 FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
 
+![image](https://user-images.githubusercontent.com/104925648/236641874-e2e9e5ae-5b2a-4efa-8bae-407cd001b102.png)
+
+
 
 
 
